@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #f0f0f0;
+    font-family: Verdana;
+    padding-bottom: 5px;
+  }
+  
+  header {
+    font-family: Georgia;
+    background-color: #860038;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  figure {
+    max-width: 500px;
+    margin: 10px auto;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+  }
+  
+  figure img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  h3 {
+    text-align: center;
+  }
+  
+  .quote, h4 {
+    font-style: italic;
+  }
+  
+  p:last-of-type {
+    text-align: center;
+    padding: 5px;
+  }
+  
+  article {
+    padding: 5px 5px 5px 5px;
+  }
+  
+  hr {
+    width: 95%;
+    height: 5px;
+    margin: 0 auto;
+    background-color: #63666A;
+    border: none;
+  }
+  
+  .quote-author {
+    padding-bottom: 5px;
+  }
+  
